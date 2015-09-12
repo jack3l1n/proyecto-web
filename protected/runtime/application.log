@@ -64,3 +64,67 @@ Stack trace:
 #16 {main}
 REQUEST_URI=/proyecto/index.php?r=tareas/index
 ---
+2015/09/12 03:51:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "proyecto/index".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('proyecto/index')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\proyecto\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/proyecto/index.php?r=proyecto/index
+---
+2015/09/12 03:51:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "proyecto/index".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('proyecto/index')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\proyecto\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/proyecto/index.php?r=proyecto/index
+---
+2015/09/12 06:40:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "proyecto/index".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('proyecto/index')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\proyecto\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/proyecto/index.php?r=proyecto/index
+---
+2015/09/12 06:41:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "proyecto/index".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('proyecto/index')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\proyecto\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/proyecto/index.php?r=proyecto/index
+---
+2015/09/12 07:38:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "proyecto/index".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('proyecto/index')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\proyecto\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/proyecto/index.php?r=proyecto/index
+---
+2015/09/12 07:55:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "proyecto/index".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('proyecto/index')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\proyecto\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/proyecto/index.php?r=proyecto/index
+---
+2015/09/12 08:05:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "proyecto/index".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('proyecto/index')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\proyecto\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/proyecto/index.php?r=proyecto/index
+---
+2015/09/12 08:07:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "proyecto/index".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('proyecto/index')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\proyecto\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/proyecto/index.php?r=proyecto/index
+---
